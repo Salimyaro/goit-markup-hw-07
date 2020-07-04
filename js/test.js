@@ -26,7 +26,7 @@
 })();
 (() => {
 	document
-		.querySelector('.js-footer2-form')
+		.querySelector('.js-portfolio-form')
 		.addEventListener('submit', e => {
 			e.preventDefault();
 
